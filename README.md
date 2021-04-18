@@ -6,7 +6,7 @@ ___
 > 20 разделов • 287 лекций • Общая продолжительность 40 ч 49 мин
 
 # Основные темы курса:
-* [AndroidUI]()
+* [AndroidUI](https://github.com/zurbaevi/android-udemy-course/tree/main/androidui)
 * [MusicShop]()
 * [TomAndJerry]()
 * [MusicPlayer]()
