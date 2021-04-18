@@ -1,3 +1,4 @@
+include ':musicshop'
 include ':androidui'
 include ':app'
 rootProject.name = "android-udemy-course"
