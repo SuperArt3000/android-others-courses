@@ -7,22 +7,22 @@ ___
 
 # Основные темы курса:
 * [AndroidUI](https://github.com/zurbaevi/android-udemy-course/tree/main/androidui)
-* [MusicShop]()
-* [TomAndJerry]()
-* [MusicPlayer]()
-* [RecyclerView]()
-* [PizzaRecipes]()
-* [ActivityLifecycle]() 
-* [SharedPreferences]()
-* [CoolTimerAndroidX]() 
-* [CarsDB]()
-* [StudentsDB]()
-* [ClubOlympus]()
-* [CarsDbWithRoom]()
-* [Movies]() 
-* [AwesomeChat]()
-* [LocationApi]() 
-* [TaxiApp]() 
-* [FlappyBirdClone]() 
+* ~~[MusicShop]()~~
+* ~~[TomAndJerry]()~~
+* ~~[MusicPlayer]()~~
+* ~~[RecyclerView]()~~
+* ~~[PizzaRecipes]()~~
+* ~~[ActivityLifecycle]()~~
+* ~~[SharedPreferences]()~~
+* ~~[CoolTimerAndroidX]()~~
+* ~~[CarsDB]()~~
+* ~~[StudentsDB]()~~
+* ~~[ClubOlympus]()~~
+* ~~[CarsDbWithRoom]()~~
+* ~~[Movies]()~~
+* ~~[AwesomeChat]()~~
+* ~~[LocationApi]()~~ 
+* ~~[TaxiApp]()~~ 
+* ~~[FlappyBirdClone]()~~ 
 #### [Сертификат будет доступен после окончании курса]()
 ___
