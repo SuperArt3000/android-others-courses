@@ -1,3 +1,4 @@
+include ':tomandjerry'
 include ':musicshop'
 include ':androidui'
 include ':app'
