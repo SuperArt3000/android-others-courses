@@ -8,7 +8,7 @@ ___
 # Основные темы курса:
 * [AndroidUI](https://github.com/zurbaevi/android-udemy-course/tree/main/androidui)
 * [MusicShop](https://github.com/zurbaevi/android-udemy-course/tree/main/musicshop)
-* ~~[TomAndJerry]()~~
+* [TomAndJerry](https://github.com/zurbaevi/android-udemy-course/tree/main/tomandjerry)
 * ~~[MusicPlayer]()~~
 * ~~[RecyclerView]()~~
 * ~~[PizzaRecipes]()~~
