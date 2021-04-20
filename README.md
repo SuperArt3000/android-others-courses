@@ -10,6 +10,7 @@ ___
 * [MusicShop](https://github.com/zurbaevi/android-udemy-course/tree/main/musicshop)
 * [TomAndJerry](https://github.com/zurbaevi/android-udemy-course/tree/main/tomandjerry)
 * [UsingVideo](https://github.com/zurbaevi/android-udemy-course/tree/main/usingvideo)
+* [PlayingAudio](https://github.com/zurbaevi/android-udemy-course/tree/main/playingaudio)
 * ~~[MusicPlayer]()~~
 * ~~[RecyclerView]()~~
 * ~~[PizzaRecipes]()~~
