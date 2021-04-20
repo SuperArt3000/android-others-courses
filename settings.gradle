@@ -1,3 +1,5 @@
+include ':musicplayer'
+include ':musicplayer'
 include ':playingaudio'
 include ':usingvideo'
 include ':tomandjerry'
