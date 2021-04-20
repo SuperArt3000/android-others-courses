@@ -1,3 +1,4 @@
+include ':playingaudio'
 include ':usingvideo'
 include ':tomandjerry'
 include ':musicshop'
