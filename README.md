@@ -11,7 +11,7 @@ ___
 * [TomAndJerry](https://github.com/zurbaevi/android-udemy-course/tree/main/tomandjerry)
 * [UsingVideo](https://github.com/zurbaevi/android-udemy-course/tree/main/usingvideo)
 * [PlayingAudio](https://github.com/zurbaevi/android-udemy-course/tree/main/playingaudio)
-* ~~[MusicPlayer]()~~
+* [MusicPlayer](https://github.com/zurbaevi/android-udemy-course/tree/main/musicplayer)
 * ~~[RecyclerView]()~~
 * ~~[PizzaRecipes]()~~
 * ~~[ActivityLifecycle]()~~
