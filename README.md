@@ -12,6 +12,7 @@ ___
 * [UsingVideo](https://github.com/zurbaevi/android-udemy-course/tree/main/usingvideo)
 * [PlayingAudio](https://github.com/zurbaevi/android-udemy-course/tree/main/playingaudio)
 * [MusicPlayer](https://github.com/zurbaevi/android-udemy-course/tree/main/musicplayer)
+* [ListView](https://github.com/zurbaevi/android-udemy-course/tree/main/listview)
 * ~~[RecyclerView]()~~
 * ~~[PizzaRecipes]()~~
 * ~~[ActivityLifecycle]()~~
