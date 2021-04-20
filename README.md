@@ -9,6 +9,7 @@ ___
 * [AndroidUI](https://github.com/zurbaevi/android-udemy-course/tree/main/androidui)
 * [MusicShop](https://github.com/zurbaevi/android-udemy-course/tree/main/musicshop)
 * [TomAndJerry](https://github.com/zurbaevi/android-udemy-course/tree/main/tomandjerry)
+* [UsingVideo](https://github.com/zurbaevi/android-udemy-course/tree/main/usingvideo)
 * ~~[MusicPlayer]()~~
 * ~~[RecyclerView]()~~
 * ~~[PizzaRecipes]()~~
