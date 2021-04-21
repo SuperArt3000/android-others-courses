@@ -13,7 +13,7 @@ ___
 * [PlayingAudio](https://github.com/zurbaevi/android-udemy-course/tree/main/playingaudio)
 * [MusicPlayer](https://github.com/zurbaevi/android-udemy-course/tree/main/musicplayer)
 * [ListView](https://github.com/zurbaevi/android-udemy-course/tree/main/listview)
-* ~~[RecyclerView]()~~
+* [RecyclerView](https://github.com/zurbaevi/android-udemy-course/tree/main/recyclerview)
 * ~~[PizzaRecipes]()~~
 * ~~[ActivityLifecycle]()~~
 * ~~[SharedPreferences]()~~
