@@ -17,7 +17,7 @@ ___
 * [PizzaRecipes](https://github.com/zurbaevi/android-udemy-course/tree/main/pizzarecipes)
 * [ActivityLifecycle](https://github.com/zurbaevi/android-udemy-course/tree/main/activitylifecycle)
 * [SharedPreferences](https://github.com/zurbaevi/android-udemy-course/tree/main/sharedpreferences)
-* ~~[CoolTimerAndroidX]()~~
+* [CoolTimer](https://github.com/zurbaevi/android-udemy-course/tree/main/cooltimer)
 * ~~[CarsDB]()~~
 * ~~[StudentsDB]()~~
 * ~~[ClubOlympus]()~~
