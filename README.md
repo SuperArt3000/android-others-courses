@@ -14,7 +14,7 @@ ___
 * [MusicPlayer](https://github.com/zurbaevi/android-udemy-course/tree/main/musicplayer)
 * [ListView](https://github.com/zurbaevi/android-udemy-course/tree/main/listview)
 * [RecyclerView](https://github.com/zurbaevi/android-udemy-course/tree/main/recyclerview)
-* ~~[PizzaRecipes]()~~
+* [PizzaRecipes](https://github.com/zurbaevi/android-udemy-course/tree/main/pizzarecipes)
 * ~~[ActivityLifecycle]()~~
 * ~~[SharedPreferences]()~~
 * ~~[CoolTimerAndroidX]()~~
