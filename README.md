@@ -15,8 +15,8 @@ ___
 * [ListView](https://github.com/zurbaevi/android-udemy-course/tree/main/listview)
 * [RecyclerView](https://github.com/zurbaevi/android-udemy-course/tree/main/recyclerview)
 * [PizzaRecipes](https://github.com/zurbaevi/android-udemy-course/tree/main/pizzarecipes)
-* ~~[ActivityLifecycle]()~~
-* ~~[SharedPreferences]()~~
+* [ActivityLifecycle](https://github.com/zurbaevi/android-udemy-course/tree/main/activitylifecycle)
+* [SharedPreferences](https://github.com/zurbaevi/android-udemy-course/tree/main/sharedpreferences)
 * ~~[CoolTimerAndroidX]()~~
 * ~~[CarsDB]()~~
 * ~~[StudentsDB]()~~
