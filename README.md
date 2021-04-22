@@ -19,8 +19,8 @@ ___
 * [SharedPreferences](https://github.com/zurbaevi/android-udemy-course/tree/main/sharedpreferences)
 * [CoolTimer](https://github.com/zurbaevi/android-udemy-course/tree/main/cooltimer)
 * [CarsDB](https://github.com/zurbaevi/android-udemy-course/tree/main/carsdb)
-* ~~[StudentsDB]()~~
-* ~~[ClubOlympus]()~~
+* [StudentsDB](https://github.com/zurbaevi/android-udemy-course/tree/main/studentsdb)
+* [ClubOlympus](https://github.com/zurbaevi/android-udemy-course/tree/main/clubolympus)
 * ~~[CarsDbWithRoom]()~~
 * ~~[Movies]()~~
 * ~~[AwesomeChat]()~~
