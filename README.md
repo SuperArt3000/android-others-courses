@@ -18,7 +18,7 @@ ___
 * [ActivityLifecycle](https://github.com/zurbaevi/android-udemy-course/tree/main/activitylifecycle)
 * [SharedPreferences](https://github.com/zurbaevi/android-udemy-course/tree/main/sharedpreferences)
 * [CoolTimer](https://github.com/zurbaevi/android-udemy-course/tree/main/cooltimer)
-* ~~[CarsDB]()~~
+* [CarsDB](https://github.com/zurbaevi/android-udemy-course/tree/main/carsdb)
 * ~~[StudentsDB]()~~
 * ~~[ClubOlympus]()~~
 * ~~[CarsDbWithRoom]()~~
