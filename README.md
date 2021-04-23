@@ -21,7 +21,7 @@ ___
 * [CarsDB](https://github.com/zurbaevi/android-udemy-course/tree/main/carsdb)
 * [StudentsDB](https://github.com/zurbaevi/android-udemy-course/tree/main/studentsdb)
 * [ClubOlympus](https://github.com/zurbaevi/android-udemy-course/tree/main/clubolympus)
-* ~~[CarsDbWithRoom]()~~
+* [CarsDbWithRoom](https://github.com/zurbaevi/android-udemy-course/tree/main/carsdbwithroom)
 * ~~[Movies]()~~
 * ~~[AwesomeChat]()~~
 * ~~[LocationApi]()~~ 
