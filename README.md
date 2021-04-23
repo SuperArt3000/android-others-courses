@@ -27,5 +27,5 @@ ___
 * ~~[LocationApi]()~~ 
 * ~~[TaxiApp]()~~ 
 * ~~[FlappyBirdClone]()~~ 
-#### [Сертификат будет доступен после окончании курса]()
+#### [Сертификат](https://www.udemy.com/certificate/UC-a7eba325-9be3-41a9-8139-594e291fed0b/)
 ___
