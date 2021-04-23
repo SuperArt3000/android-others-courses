@@ -22,7 +22,7 @@ ___
 * [StudentsDB](https://github.com/zurbaevi/android-udemy-course/tree/main/studentsdb)
 * [ClubOlympus](https://github.com/zurbaevi/android-udemy-course/tree/main/clubolympus)
 * [CarsDbWithRoom](https://github.com/zurbaevi/android-udemy-course/tree/main/carsdbwithroom)
-* ~~[Movies]()~~
+* [Movies](https://github.com/zurbaevi/android-udemy-course/tree/main/movies)
 * ~~[AwesomeChat]()~~
 * ~~[LocationApi]()~~ 
 * ~~[TaxiApp]()~~ 
