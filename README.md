@@ -24,7 +24,7 @@ ___
 * [CarsDbWithRoom](https://github.com/zurbaevi/android-udemy-course/tree/main/carsdbwithroom)
 * [Movies](https://github.com/zurbaevi/android-udemy-course/tree/main/movies)
 * [AwesomeChat](https://github.com/zurbaevi/android-udemy-course/tree/main/awesomechat)
-* ~~[LocationApi]()~~ 
+* [LocationApi](https://github.com/zurbaevi/android-udemy-course/tree/main/locationapi)
 * ~~[TaxiApp]()~~ 
 * ~~[FlappyBirdClone]()~~ 
 #### [Сертификат](https://www.udemy.com/certificate/UC-a7eba325-9be3-41a9-8139-594e291fed0b/)
