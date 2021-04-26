@@ -23,7 +23,7 @@ ___
 * [ClubOlympus](https://github.com/zurbaevi/android-udemy-course/tree/main/clubolympus)
 * [CarsDbWithRoom](https://github.com/zurbaevi/android-udemy-course/tree/main/carsdbwithroom)
 * [Movies](https://github.com/zurbaevi/android-udemy-course/tree/main/movies)
-* ~~[AwesomeChat]()~~
+* [AwesomeChat](https://github.com/zurbaevi/android-udemy-course/tree/main/awesomechat)
 * ~~[LocationApi]()~~ 
 * ~~[TaxiApp]()~~ 
 * ~~[FlappyBirdClone]()~~ 
