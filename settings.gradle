@@ -1,3 +1,4 @@
+include ':awesomechat'
 include ':movies'
 include ':carsdbwithroom'
 include ':clubolympus'
