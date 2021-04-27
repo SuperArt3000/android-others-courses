@@ -25,7 +25,7 @@ ___
 * [Movies](https://github.com/zurbaevi/android-udemy-course/tree/main/movies)
 * [AwesomeChat](https://github.com/zurbaevi/android-udemy-course/tree/main/awesomechat)
 * [LocationApi](https://github.com/zurbaevi/android-udemy-course/tree/main/locationapi)
-* ~~[TaxiApp]()~~ 
+* [TaxiApp](https://github.com/zurbaevi/android-udemy-course/tree/main/taxiapp) 
 * ~~[FlappyBirdClone]()~~ 
 #### [Сертификат](https://www.udemy.com/certificate/UC-a7eba325-9be3-41a9-8139-594e291fed0b/)
 ___
