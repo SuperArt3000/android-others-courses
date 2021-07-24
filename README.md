@@ -1,4 +1,5 @@
 ___
+
 # Практикум на Udemy
 
 Это небольшой репозиторий, который я использую для сохранения программ и файлов, созданных во время прохождения курса Udemy ***YouRa Allakhverdov*** под названием **Android разработка - с нуля до профессионала.**
@@ -27,4 +28,5 @@ ___
 * [LocationApi](https://github.com/zurbaevi/android-udemy-course/tree/main/locationapi)
 * [TaxiApp](https://github.com/zurbaevi/android-udemy-course/tree/main/taxiapp) 
 #### [Сертификат](https://www.udemy.com/certificate/UC-a7eba325-9be3-41a9-8139-594e291fed0b/)
+
 ___
